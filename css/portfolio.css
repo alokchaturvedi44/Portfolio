@@ -97,7 +97,8 @@ header{
     }
 
     header .logo-div img{
-        width: 8rem;
+        width: 3.5rem;
+        margin-right: 1.8rem;
     }
 
     header .logo-div .name{
@@ -309,7 +310,7 @@ header{
     .project-container .project-card{
         width: 90%;
         height: 55rem;
-        background-color: #afafaf;
+        background-color: #afaf;
         background-image: url('../images/projects/Project1.png');
         background-repeat: no-repeat;
         background-size: cover;
